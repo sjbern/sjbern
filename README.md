@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bern
-- 👀 I’m interested in educating people about irrigation and helping them reduce their water use
-- 🌱 I’m currently learning python, angular, and sql
+- 👀 I’m interested in educating people about irrigation, while helping them reduce their water use
+- 🌱 I’m currently learning python, java, django, and other web framworks
 - 💞️ I’m looking to collaborate on just about anything
 
 
